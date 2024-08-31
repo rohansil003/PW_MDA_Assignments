@@ -1,6 +1,5 @@
 -- Sql_Windows function - assignment --
 
-use mavenmovies ;
 
 -- Q 1. Rank the customers based on the total amount they've spent on rentals.
 
